@@ -2,8 +2,8 @@ import React from 'react'
 
 function App() {
   return (
-    <div className='grid md:grid-cols-2 xl:grid-cols-4 gap-5 w-5/5 2xl:w-5/6 mt-2 mx-auto'>
-      <div className='bg-moderate-violet rounded-lg col-span-1 md:col-span-2 xl:grid-cols-4 text-white p-10 shadow-2xl'>
+    <div className='grid lg:grid-cols-2 xl:grid-cols-4 gap-5 w-5/5 2xl:w-5/6 mt-2 mx-auto'>
+      <div className='bg-moderate-violet rounded-lg col-span-1 lg:col-span-2 xl:grid-cols-4 text-white p-10 shadow-2xl'>
         <div className='flex relative'>
           <div className='flex items-center gap-3 '>
             <img className='w-8 h-8 outline outline-2 outline-white rounded-full' src="./images/image-daniel.jpg" alt="image-daniel" />
