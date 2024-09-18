@@ -33,9 +33,7 @@ function App() {
       </div>
       <div className='bg-very-dark-grayish-blue col-span-1  rounded-lg text-white p-10  shadow-2xl'>
           <div className='flex items-center gap-3 '>
-            <div className='outline outline-2 outline-white rounded-full'>
-              <img className='w-8 h-8 outlin rounded-full' src="./images/image-jonathan.jpg" alt="image-daniel" />
-            </div>
+            <img className='w-8 h-8 rounded-full outline outline-2 outline-white' src="./images/image-jonathan.jpg" alt="image-daniel" />
             <div className='flex flex-col' style={{lineHeight: '1.3'}}>
               <span className='text-md text-light-grayish-blue font-semibold'>Jonathan Walter</span>
               <span className='text-sm text-light-gray font-semibold'>Verified Graduate</span>
@@ -55,9 +53,7 @@ function App() {
       </div>
       <div className='bg-white rounded-lg col-span-1 xl:row-span-2 text-black p-10 shadow-2xl'>
       <div className='flex items-center gap-3 '>
-        <div className='outline outline-2 outline-white rounded-full'>
-          <img className='w-8 h-8 rounded-full' src="./images/image-kira.jpg" alt="image-daniel" />
-        </div>  
+            <img className='w-8 h-8 rounded-full outline outline-2 outline-white' src="./images/image-kira.jpg" alt="image-daniel" />
             <div className='flex flex-col' style={{lineHeight: '1.3'}}>
               <span className='text-md text-very-dark-grayish-blue font-semibold'>Kira Whittle</span>
               <span className='text-sm text-light-gray font-semibold'>Verified Graduate</span>
@@ -83,9 +79,7 @@ function App() {
       </div>
       <div className='bg-white rounded-lg col-span-1  text-black p-10 shadow-2xl'>
       <div className='flex items-center gap-3 '>
-          <div className='outline outline-2 outline-white rounded-full'>
-            <img className='w-8 h-8  rounded-full' src="./images/image-jeanette.jpg" alt="image-daniel" />
-           </div>
+            <img className='w-8 h-8 rounded-full outline outline-2 outline-white' src="./images/image-jeanette.jpg" alt="image-daniel" />
             <div className='flex flex-col' style={{lineHeight: '1.3'}}>
               <span className='text-md text-very-dark-grayish-blue font-semibold'>Jonathan Walter</span>
               <span className='text-sm text-light-gray font-semibold'>Verified Graduate</span>
@@ -105,9 +99,7 @@ function App() {
       <div className='bg-very-dark-blackish-blue rounded-lg col-span-1 xl:col-span-2 text-white p-10 shadow-2xl'>
       
       <div className='flex items-center gap-3 '>
-          <div className='outline outline-2 outline-white rounded-full'>
-            <img className='w-8 h-8 rounded-full' src="./images/image-patrick.jpg" alt="image-daniel" />
-          </div>
+            <img className='w-8 h-8 rounded-full outline outline-2 outline-white' src="./images/image-patrick.jpg" alt="image-daniel" />
             <div className='flex flex-col' style={{lineHeight: '1.3'}}>
               <span className='text-md text-light-grayish-blue font-semibold'>Patrick Abrams</span>
               <span className='text-sm text-light-gray font-semibold'>Verified Graduate</span>
